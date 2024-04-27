@@ -77,7 +77,6 @@ int main(int argc, char *argv[]) {
 
 // Write a program to open any application using fork sysem call.
 
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -404,7 +403,7 @@ int main()
 
 }
 
-
+Write a program for alarm clock using alarm and signal system call
 #include<bits/stdc++.h>
 using namespace std;
 
